@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: AirCloud Blog
+title: Forska Blog
 subtitle: sometimes code， sometimes design
-author: Xiaotao Nie
+author: Xiaogang Xia
 language: zh
 timezone:
 
@@ -20,17 +20,17 @@ permalink_defaults:
 
 # Site settings
 # 网站综合内容设置：
-SEOTitle: AirCloud的博客 | AirCloud's Blog
+SEOTitle: Forska的博客 | Forska's Blog
 header-img: img/home-bg.jpg
-email: onlythen@yeah.net
-description: "聂小涛的博客"
+email: 736523388@qq.com
+description: "夏小刚的博客"
 keyword: "腾讯"
 
 # SNS settings
 # 一些社交平台地址，支持以下几种：
 weibo_username:     3286578617
 zhihu_username:     ai-er-lan-xue-da
-github_username:    AirCloud
+github_username:    forska
 twitter_username:   iconie_alloy
 facebook_username:  xiaotao.nie.5
 linkedin_username:  小涛-聂-80964aba
