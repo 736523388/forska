@@ -59,8 +59,8 @@ comment:
   type: gitment
   id: d7658a7ceea6789f8a8d
   secret: 5aaafb4013b0500e28e09c18841650334ce45d57
-  owner: aircloud
-  repo: hexo-aircloud-blog
+  owner: forska
+  repo: forska
 
 donate:
   img: img/donate.jpg
